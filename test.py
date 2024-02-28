@@ -14,7 +14,7 @@ model = VGGFace(model='resnet50',include_top=False,input_shape=(224,224,3),pooli
 
 detector = MTCNN()
 # load img -> face detection
-sample_img = cv2.imread('sample/Y3.jpeg')
+sample_img = cv2.imread('sample/ML2.jpeg')
 results = detector.detect_faces(sample_img)
 
 x,y,width,height = results[0]['box']
@@ -32,8 +32,8 @@ face_array = face_array.astype('float32')
 expanded_img = np.expand_dims(face_array,axis=0)
 preprocessed_img = preprocess_input(expanded_img)
 result = model.predict(preprocessed_img).flatten()
-#print(result)
-#print(result.shape)
+print(result)
+print(result.shape)
 # find the cosine distance of current image with all the 8655 features
 similarity = []
 for i in range(len(feature_list)):
