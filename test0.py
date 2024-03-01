@@ -11,9 +11,3 @@ for actor in actors:
         print(f"test")
 
 pickle.dump(filenames,open('filenames.pkl','wb'))
-
-
-
-
-
-
