@@ -10,3 +10,10 @@ This project is not just a fun tool for Bollywood fans to see which celebrity th
 By recreating this project, gained insights into the complexities of facial recognition technologies, understand the workings of deep learning models like VGG-Face, and explore the intricacies of building and deploying web applications with Streamlit. 
 
 
+
+
+
+
+
+
+
