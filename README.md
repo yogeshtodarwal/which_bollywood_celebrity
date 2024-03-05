@@ -8,3 +8,11 @@ The core of this application is the VGG-Face model, a variant of the VGG-16 mode
 This project is not just a fun tool for Bollywood fans to see which celebrity they resemble the most but also serves as an excellent learning project for those interested in machine learning, computer vision, and web development. It showcases the practical application of convolutional neural networks (CNNs) for facial recognition tasks and provides hands-on experience with Streamlit, an essential tool for deploying machine learning models in interactive web applications.
 
 By recreating this project, gained insights into the complexities of facial recognition technologies, understand the workings of deep learning models like VGG-Face, and explore the intricacies of building and deploying web applications with Streamlit. 
+
+
+
+
+
+
+
+
