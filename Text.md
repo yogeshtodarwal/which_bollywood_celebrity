@@ -52,3 +52,9 @@ While this study extensively explored the binding interactions and energetics, i
 Furthermore, the role of post-translational modifications, particularly on tau fibrils, warrants further investigation. As suggested, these modifications may influence the binding affinity and fluorescence behavior of certain ligands, potentially impacting their diagnostic utility. Incorporating these modifications in future simulations could provide valuable insights into their effects on ligand binding.
 
 Moving forward, additional experimental validation of the computational findings would be beneficial, particularly for the newly identified binding site S2 for HS-276 on the Aβ(1–42) fibril. Such validation could further strengthen the understanding of the binding mechanisms and potentially unveil new avenues for the development of diagnostic probes or therapeutic interventions targeting amyloid fibrils.
+
+
+
+
+
+
