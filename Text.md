@@ -10,15 +10,6 @@ Comparative Analysis of Ligand Interactions with Aβ(1–42) Fibril
 The spatial distribution analysis revealed distinct binding sites for each ligand type (anionic, cationic, or neutral) on the Aβ(1–42) fibril (Figure 1a). Interestingly, the anionic ligands pFTAA and qFTAA-CN shared the strongest binding site (S1) located around the positively charged LYS16 residue, as well as VAL18 and PHE20. The presence of the positively charged LYS16 likely facilitated the formation of stable interactions with the negatively charged anionic ligands through Coulombic attractions.
 
 
-
-
-
-
-
-
-
-
-
 The neutral ligand HS-276 bound to two sites on the Aβ(1–42) fibril. The strongest binding site (S2) involved residues ASP7, SER8, GLY9, and TYR10, forming a pocket where HS-276 appeared to fit perfectly. The secondary binding site for HS-276 was near PHE20 and ALA21, overlapping with the binding site for anionic ligands. The cationic ligand bTVBT4 exhibited a distinct binding site (S3) comprising residues TYR10, GLU11, and VAL12, located near site S2. At site S3, bTVBT4 interacted strongly with TYR10 due to both Coulombic and Lennard-Jones (LJ) interactions, while the interaction with the negatively charged GLU11 was weak due to the orientation of the partial negative charges away from the ligand. Since bTVBT4 primarily interacted with TYR10, it showcased relatively weak binding.
 
 
