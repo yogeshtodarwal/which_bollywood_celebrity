@@ -6,4 +6,6 @@ In previous studies, unbiased MD simulations were used to identify the binding s
 
 
 
+
+
 Unbiased molecular dynamics (MD) simulations were performed to identify the binding sites and characterize the interactions between these ligands and tau. the structured cores of Aβ(1–42) and tau fibrils. 
