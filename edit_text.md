@@ -10,6 +10,8 @@ Experimental results align with the calculated relative binding energies of the 
 
 
 
+
+
 In the analysis of ligand distribution surrounding the tau protofilament, as depicted in Figure~\ref{fig:Density plot}(b), a distinct pattern emerges. Unlike the A$\beta$(1––42) case, here,  HS-276 is characterized by a lower population density around the tau protofilament, whereas pFTAA, qFTAA-CN, and bTVBT4 exhibit a comparatively high density. This difference in density likely stems from the differential affinity of HS-276 towards the tau fibrils.
 
 
