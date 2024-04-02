@@ -1,13 +1,4 @@
-
-
 Experimental results align with the calculated relative binding energies of the ligands, with pFTAA and bTVBT4 displaying fluorescence upon binding to tau fibrils, whereas HS-276 having the lowest binding energy does not. However, the difference in binding energy between bTVBT4 (which fluoresces) and HS-276 (which does not) is only 0.8 kcal/mol, falling within the error range of the PMF method used to calculate free energy. The ambiguous fluorescence behavior of qFTAA-CN observed in some experiments might be attributed to post-translational modifications of tau, specifically the acetylation of LYS369 at site S3, which could weaken its binding to tau and inhibit fluorescence.\cite{Alquezar2021Jan} Further investigation is required to confirm this hypothesis and to explore whether pFTAA can bind to site S3 even after post-translational modifications, especially given its higher binding energy compared to qFTAA-CN.
-
-
-
-
-
-
-
 
 
 
