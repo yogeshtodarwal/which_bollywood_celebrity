@@ -14,7 +14,7 @@ model = VGGFace(model='resnet50',include_top=False,input_shape=(224,224,3),pooli
 
 detector = MTCNN()
 # load img -> face detection
-sample_img = cv2.imread('sample/D1.jpeg')
+sample_img = cv2.imread('sample/P.png')
 results = detector.detect_faces(sample_img)
 
 x,y,width,height = results[0]['box']
