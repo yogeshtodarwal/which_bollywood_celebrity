@@ -14,6 +14,7 @@ In the analysis of ligand distribution surrounding the tau protofilament, as dep
 
 
 
+
 -------------------
 
 Intriguingly, the protein environment induced significant alterations in the conformer patterns of all four ligands when compared to their behavior in water. (For neutral ligand all conformers are populated, while for anionic and neutrationic ligands significant change in pattern is observed )
