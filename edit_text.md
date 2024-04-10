@@ -26,13 +26,6 @@ All ligands bind to their respective sites parallel to the A$\beta$(1––42) f
  Their binding to the A$\beta$(1––42) protein is driven by Coulombic interactions, as seen in Table \ref{tab:interaction_energies}.
 
  The binding of the neutral ligand HS-276 and cationic bTVBT4 to the A$\beta$(1––42) protein is mainly driven by LJ interactions (see Table \ref{tab:interaction_energies}).
--------
-
-
-- Conformer distribution paragraph needs improvement. Also, paragraph in the introduction which focus on spectra should be modified. 
-- Figure description
-- SI edit figure, text and description
-
 
 
 
