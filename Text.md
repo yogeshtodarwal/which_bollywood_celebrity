@@ -1,12 +1,21 @@
 
 Motivation for Application
 
-My research interest lies in the development of theoretical models and computational techniques and their application to chemical systems. My doctoral research under Prof. Patrick Norman at KTH Royal Institute of Technology focused on force field parametrization and the computational prediction of protein-ligand interactions in neurodegenerative diseases. I have also worked on machine learning project during my internship at Radboud University (Netherlands) and my 5-year integrated master's at IIT Bombay (India). The current open postdoctoral position at Stockholm University presents a unique opportunity to apply these skills to understanding how our cells capture energy through membrane protein functions, aligning perfectly with both my scientific expertise and career aspirations. 
+- My research interest lies in the development of theoretical models and computational techniques and their application to chemical systems.
+- My doctoral research under Prof. Patrick Norman at KTH Royal Institute of Technology focused on force field parametrization and the computational prediction of protein-ligand interactions in neurodegenerative diseases. 
+- I have also worked on machine learning project during my internship at Radboud University (Netherlands) and my 5-year integrated master's at IIT Bombay (India).
+- The current open postdoctoral position at Stockholm University presents a unique opportunity to apply these skills to understanding how our cells capture energy through membrane protein functions, aligning perfectly with both my scientific expertise and career aspirations. 
 
-During my education at IIT Bombay (India), I was fascinated by machine learning (ML) techniques and kept myself updated with Generative Adversarial Neural Networks (GANs), the hot topic at that time. I had the opportunity to learn and apply ML models to map molecular data to properties during a summer internship at Radboud University (Netherlands) and as a research assistant at IIT Bombay. These are skills that I can leverage in this project.
+- During my education at IIT Bombay (India), I was fascinated by machine learning (ML) techniques and kept myself updated with Generative Adversarial Neural Networks (GANs), the hot topic at that time.
+- I had the opportunity to learn and apply ML models to map molecular data to properties during a summer internship at Radboud University (Netherlands) and as a research assistant at IIT Bombay. 
+- These are skills that I can leverage in this project.
 
-During my PhD, I collaborated with diverse theoretical and experimental chemists on various projects. I am excited about the golden opportunity to work under Prof. Ville Kaila and collaborate with Dr. Simon Olsson's lab. This will enrich my current competencies in computational biochemistry and machine learning, ultimately contributing to groundbreaking work on energy metabolism in cells.
+- During my PhD, I collaborated with diverse theoretical and experimental chemists on various projects.
+- I am excited about the golden opportunity to work under Prof. Ville Kaila and collaborate with Dr. Simon Olsson's lab. 
+- This will enrich my current competencies in computational biochemistry and machine learning, ultimately contributing to groundbreaking work on energy metabolism in cells.
 
+
+I am writing to express my strong interest in the postdoctoral position in the Wallenberg project "Machine-Learning how our Cells Capture Energy - Data-Driven Studies of Membrane Protein Function, Evolution, and Disease" working with Professor Ville Kaila at Stockholm University. My research background makes me an ideal candidate for this role.
 
 
 
