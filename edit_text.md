@@ -73,3 +73,16 @@
 
 
 
+With a strong background in programming, mathematical modeling, simulations, and machine learning, I am excited to transition into the quantitative finance domain.
+
+
+
+My profound expertise in developing theoretical models and employing advanced analytical techniques positions me well to tackle intricate challenges in areas such as portfolio optimization, risk management, and derivative pricing.
+
+
+My scientific approach enables me to leverage my quantitative skills and provide innovative solutions to problem that could contribute to business success
+
+----
+
+
+With a strong background in programming, mathematical modeling, simulations, and machine learning, I am excited to transition into the quantitative finance domain. I am quick to learn and open to acquiring new skills necessary to tackle complex challenges in areas such as portfolio optimization, risk management, and derivative pricing. My scientific approach enables me to leverage my quantitative skills and deliver innovative solutions that could contribute to business success.
